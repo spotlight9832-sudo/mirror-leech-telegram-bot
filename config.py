@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = "1"
 AUTHORIZED_CHATS = "-1003045642687"
 SUDO_USERS = "8024758566 6883111123"
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://lopipo3350_db_user:c9LydqfbYIXjwh6h@cluster0.nfhcfqo.mongodb.net/?appName=Cluster0"
 DATABASE_NAME = "mltb"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
